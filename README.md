@@ -1,2 +1,7 @@
-# craftotfarc.github.io
-CraftO dev site
+<head>
+  <title>CraftO's Code</title>
+  <link rel="stylesheet" type="text/css" href="theme.css">
+</head>
+<body>
+  <h1> Welcome to CraftOtfarC's Dev Site</h1>
+  
